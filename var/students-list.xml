@@ -88,6 +88,13 @@
     	<group> KrDZIs3011Io</group>
 </student>
 
+<student>
+	<firstname> Przemyslaw</firstname>
+    	<lastname> Dyrda</lastname>
+    	<email> e@mail.com</email>
+    	<github> prze-mo</github>
+    	<group> KrZZIs3011Io</group>
+</student>
 
 
 </students>
